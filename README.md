@@ -53,8 +53,7 @@ If you believe in this mission, support u8u via:
 
 - **GitHub Sponsors**: [github.com/sponsors/echostorm](https://github.com/sponsors/echostorm)  
 - **Open Collective**: [opencollective.com/u8u](https://opencollective.com/u8u)  
-- **Ko-fi**: [ko-fi.com/u8u](https://ko-fi.com/u8u)  
-- **Buy Me a Coffee**: [buymeacoffee.com/u8u](https://buymeacoffee.com/u8u)
+- **Patreon**: [patreon.com/RamiShawwa](https://patreon.com/RamiShawwa)  
 
 We're also open to partnerships and grants from ethical foundations, AI research institutions, and OSS accelerators.
 
